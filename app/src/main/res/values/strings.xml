@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="error_message_network">No Internet Connection</string>
+    <string name="error_message_no_data">No Books Available</string>
+    <string name="welcome_message">Please type your query in the search box above</string>
+    <string name="enter_search_query">Enter your search query</string>
+    <string name="search">Go</string>
+</resources>
